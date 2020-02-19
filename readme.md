@@ -1,0 +1,1 @@
+Arquivo com um programa em C, que utilizando ponteiros, variáveis e vetores exemplifica o conceito de pilha em Estrutura de Dados. 
